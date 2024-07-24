@@ -16,6 +16,8 @@
                  
 ⚡ Fun fact / 有趣冷知识 <strong>66Bro is also a streamer and a part-time middle school teacher! This guy is not boring at all !!</strong>
 
+🖥️ Website / 个人博客站：<strong> www.66bro.top </strong> (正在进行ICP备案，敬请期待）
+
 # 🕹️Frequently played games / 常玩游戏
 
 Minecraft, COD Warzone, The Finals, Asseto Crosa, Battlefield 1&amp;5, Asphalt9......
@@ -30,9 +32,13 @@ CPU / 处理器：Intel i7-12700H
 
 GPU / 显卡：NVIDIA GeForce RTX 3060 Laptop GPU
 
+System / 系统：Windows 11 （扑街
+
 Laptop-2 / 笔记本电脑2: Dell Inspiron 14-5439
 
 CPU / 处理器: Intel i5 inside......
+
+System / 系统：Kali Linux
 
 ## 🔧Tools / 工具
 
@@ -42,7 +48,7 @@ CPU / 处理器: Intel i5 inside......
 
 ✂️ Video editing / 视频剪辑: PR2024, AE2024, Davinci Resolve 18.6, 剪映专业版(JianyingPro)
 
-🗨️ Chat / 聊天: TIM, 微信(Wechat), KOOK, Discord
+🗨️ Chat / 聊天: QQ, 微信(Wechat), KOOK, Discord
 
 📑 Reverse engineering / 逆向工程: IDA-Pro, dnSpy, x32&amp;x64dbg
 
