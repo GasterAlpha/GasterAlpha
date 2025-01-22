@@ -8,7 +8,7 @@
 
 🕮 I’m still learning / 正在学习 <strong>Vue &amp; C# &amp; Java &amp; Python</strong> !
 
-🤝 I’m trying to do better at / 正在尝试和<a href="https://github.com/BakaXL-Launcher/BakaXL">BakaXL</a> 还有<a herf="https://github.com/Hex-Dragon/PCL2">PCL2</a> 和<a herf="https://github.com/RockChinQ/LangBot">Langbot</a> 一起变得更好!
+🤝 I’m trying to do better at / 正在尝试和<a href="https://github.com/BakaXL-Launcher/BakaXL">BakaXL</a> 还有<a href="https://github.com/Hex-Dragon/PCL2">PCL2</a> 和<a href="https://github.com/RockChinQ/LangBot">Langbot</a> 一起变得更好!
 
 💬 Ask me about / 和我一起探讨 <strong>Minecraft, C#, C++, Java, Python and Kali Linux</strong> 方面的问题吧~
 
